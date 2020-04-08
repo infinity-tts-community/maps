@@ -12,4 +12,5 @@ C:\Users\<username>\Documents\My Games\Tabletop Simulator\Saves\Saved Objects
 
 ### MacOS
 ```
+/Users/<username>/Library/Tabletop Simulator/Saves/Saved Objects
 ```
