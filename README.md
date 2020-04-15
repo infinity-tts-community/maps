@@ -27,7 +27,7 @@ C:\Users\<username>\Documents\My Games\Tabletop Simulator\Saves\Saved Objects
 ```
 
 ### "I want all of these and would like to keep up to date as they're added."
-Either check out the map-sync tool [here](https://github.com/infinity-tts-community/map-sync/releases)
+Either check out the map-sync tool [here](https://github.com/infinity-tts-community/map-sync)
 or use Git directly to clone the repository into your TTS saved objects.
 
 *Windows Example*  
@@ -40,7 +40,7 @@ Git for Windows required
 > git pull
 ```
 
-## How to contribute.
+## How to contribute
 Depending on levels of technical bravery you can either:
 - Open an "Issue" in Github with your contribution zipped and added as an attachment.
 - Submit the map on the VaulSC infinity-map-bags channel and mention "d1j1t".
@@ -49,7 +49,7 @@ Depending on levels of technical bravery you can either:
 
 Please include screenshots where possible to make browsing the maps easier.
 
-## Reporting an issue.
+## Reporting an issue
 These maps are community contributions. Assets may go missing from hosting providers over time
 and result in loading errors in TTS. Please open an Issue in Github to report such problems.
 As the assets aren't mine I may not be able to always fix the maps and may have to remove problematic
