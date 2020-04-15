@@ -55,6 +55,7 @@ and result in loading errors in TTS. Please open an Issue in Github to report su
 As the assets aren't mine I may not be able to always fix the maps and may have to remove problematic
 maps entirely.
 
+---
 
-This is completely unofficial and not associated with either Corvus Belli or
+This collection is completely unofficial and not associated with either Corvus Belli or
 Berserk Games.
